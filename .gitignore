@@ -1,0 +1,15 @@
+# Generated binaries and test outputs
+/MusicProbe.exe
+/MusicProbe.exe.config
+/source/MusicProbe.Tests.exe
+/source/MusicProbe.Tests.exe.config
+*.pdb
+*.tmp
+*.log
+bin/
+obj/
+
+# Local user settings
+settings.json
+MusicProbe.path.txt
+.vs/
